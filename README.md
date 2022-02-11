@@ -1,10 +1,11 @@
 # Akash Gangadharan
 
-<img
+
+<!-- <img
   align="right"
   width="300px"
   src="./bioImg.svg"
-/>
+ -->
 <span align="left">
   <a href="https://www.linkedin.com/in/akashgangadharan/">
     <img src="https://img.shields.io/badge/-Akash_Gangadharan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akashgangadharan/" />
