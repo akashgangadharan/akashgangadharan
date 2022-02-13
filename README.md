@@ -27,7 +27,7 @@
 <a href="https://www.linkedin.com/in/akash-gangadharan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akash-gangadharan/" height="30" width="40" /></a>  
 <a href="https://kaggle.com/akashgangadharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akashgangadharan" height="30" width="40" /></a>  
 <a href="https://medium.com/@akash-gangadharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@akash-gangadharan" height="30" width="40" /></a>  
-<a href="https://leetcode.com/akashgangadharan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/akashgangadharan/" height="30" width="40" /></a>
+<a href="https://leetcode.com/akashgangadharan/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Leetcode.svg" alt="https://leetcode.com/akashgangadharan/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
