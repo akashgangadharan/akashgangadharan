@@ -20,7 +20,7 @@
 
 - 🤝 I’m looking for help with **learning Machine Learning**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/149iQQnDXySyOftA-o4A8Kb2voRthx_Ez/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://github.com/akashgangadharan/akashgangadharan/blob/main/Akash_Gangadharan.pdf)
 
 
 
