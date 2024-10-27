@@ -14,12 +14,6 @@
   <img src="https://komarev.com/ghpvc/?username=akashgangadharan&label=Profile%20views&color=0e75b6&style=flat" alt="akashgangadharan" />
 </span> 
 
-- 🔭 I’m currently working on **Machine Learning projects**
-
-- 👯 I’m looking to collaborate on **Kaggle**
-
-- 🤝 I’m looking for help with **learning Machine Learning**
-
 - 📄 Know about my experiences [Resume](https://github.com/akashgangadharan/akashgangadharan/blob/main/Akash_Gangadharan.pdf)
 
 
